@@ -1,0 +1,9 @@
+name: sangerseq_shiny
+title: sangerseq_shiny
+username:
+account: wanlinrong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12289058
+bundleId: 8869470
+url: https://wanlinrong.shinyapps.io/sangerseq_shiny/
